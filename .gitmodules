@@ -4,3 +4,6 @@
 [submodule "Bai04"]
 	path = Bai04
 	url = https://github.com/voduyanhgalaxys4-code/Bai04.git
+[submodule "Bai01"]
+	path = Bai01
+	url = https://github.com/voduyanhgalaxys4-code/Bai01.git
